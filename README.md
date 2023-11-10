@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://guillaumefalvet.up.railway.app/](https://guillaumefalvet.up.railway.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://guillaumefalvet.up.railway.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
